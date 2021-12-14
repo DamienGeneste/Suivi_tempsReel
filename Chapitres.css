@@ -129,6 +129,7 @@ html, body, .container {
     align-items: center;
     justify-content: center;
     font-weight: bold;
+    font-size: large;
 }
 #vh {
     border-radius: 15px;
