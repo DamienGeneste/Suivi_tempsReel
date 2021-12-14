@@ -131,6 +131,20 @@ html, body, .container {
     font-weight: bold;
     font-size: xx-large;
 }
+
+.actualise {
+    display: -webkit-flexbox;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-align: right;
+    -ms-flex-align: right;
+    -webkit-align-items: right;
+    align-items: right;
+    justify-content: right;
+    font-weight: bold;
+    font-size: small;
+}
 #vh {
     border-radius: 15px;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
