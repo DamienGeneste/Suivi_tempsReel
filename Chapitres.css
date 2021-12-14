@@ -115,7 +115,7 @@ a:hover::after {
   transform: translateX(-50%) scaleX(1);
 }
 html, body, .container {
-    height: 50%;
+    height: 80%;
 }
 
 .container {
